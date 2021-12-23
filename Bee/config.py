@@ -1,0 +1,1 @@
+poorPerson = #number here
